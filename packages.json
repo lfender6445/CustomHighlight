@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "packages": [
+    {
+      "name": "Custom Highlighter",
+      "description": "Hightlight your code, entering specific strings",
+      "author": "Andres",
+      "homepage": "https://jactheman@bitbucket.org/jactheman/customhightlighter.git",
+      "last_modified": "2012-09-26 05:04:31",
+      "platforms": {
+        "osx": [
+          {
+            "version": "1.1.0",
+            "url": "TBD"
+          }
+        ]
+      }
+    }
+  ]
+}
