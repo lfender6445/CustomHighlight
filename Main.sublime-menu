@@ -28,13 +28,13 @@
                             { "caption": "-" },
                             {
                                 "command": "open_file",
-                                "args": {"file": "${packages}/CustomHighlight/CustomHighlight.sublime-settings"},
-                                "caption": "Settings – Default"
+                                "args": {"file": "${packages}/CustomHighlight/customhighlighter.sublime-settings"},
+                                "caption": "Configuration - Default"
                             },
                             {
                                 "command": "open_file",
-                                "args": {"file": "${packages}/User/CustomHighlight.sublime-settings"},
-                                "caption": "Settings – User"
+                                "args": {"file": "${packages}/User/customhighlighter.sublime-settings"},
+                                "caption": "Configuration - User"
                             },
                             {
                                 "command": "open_file_settings",

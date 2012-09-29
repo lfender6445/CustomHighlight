@@ -1,3 +1,6 @@
+/*
+	CustomHighlight DEFAULT settings
+*/
 {
 	"color_highlight": "red",
 	"words": [ "alert", "console.log", "raise"]
