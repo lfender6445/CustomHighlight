@@ -30,13 +30,3 @@ class HighlightCommand(sublime_plugin.TextCommand):
 		    all_reg.append(sel)
 
 		self.view.add_regions("WordHighlight", [item for sublist in all_reg for item in sublist], "circle", sublime.DRAW_EMPTY)
-
-
-		# for reg in all_reg:
-		# 	print(reg)
-			# self.view.add_regions("WordHighlight", reg, "circle", sublime.DRAW_EMPTY)
-
-
-			# self.view.fold(reg)
-			# sel(0)
-			# self.view.window().show_quick_panel(opts.words_included, self.on_done, sublime.MONOSPACE_FONT)
