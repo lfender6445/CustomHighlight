@@ -1,4 +1,4 @@
 {
 	"color_highlight": "red",
-	"words": [ "alert", "TEST", "MY_FRIEND", "console.log", "HELLO" ]
+	"words": [ "alert", "console.log", "raise"]
 }
